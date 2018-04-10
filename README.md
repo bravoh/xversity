@@ -1,2 +1,2 @@
 # xversity
-simple online campus online unit registration laravel system
+simple campus online unit registration laravel system
